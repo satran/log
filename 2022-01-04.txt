@@ -1,0 +1,7 @@
+# Day 4
+
+I started reading [[Troublesome Words]], by Bill Bryson. This book writes about words that are confused often. One of the early things I learnt was the difference between abbreviations, acronyms, and contractions. 
+
+Abbreviation is the general term used to shorten a word; BASIC(Beginners All-purpose Symbolic Instruction Code) or HTTP(HyperText Transport Protocol). Acronyms are abbreviations that are pronounceable. So here BASIC would be an acronym while HTTP would be an abbreviation. 
+
+Contractions are short forms of words like can't for cannot. 
