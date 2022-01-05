@@ -1,0 +1,5 @@
+# Day 5
+
+I have a lot of ideas. I could fill a notebook with ideas. I have often heard ideas are cheap, it is the implementation matters. And that is so true. Looking at the numerous ideas which haven't come out of either the notebook or my head I can vouch for that. 
+
+Recently, I have come to the realisation that these ideas need to be experimented with. The key is how you set the experiment. Start with the least amount of effort to get this going. Say you want to build an application. For me it was a blogging system(every time I want to write more I build a static page generator, albeit different this time). It is easy to get engrossed in the details of authentication or which database to use. This takes time and energy which soon get used by another idea. My recommendation is to start really small. Use Basic Auth and plain text files as the data store. Get the system built on this and see how it goes. If all works out you might end up with a system with users(even if the one user is just you).
