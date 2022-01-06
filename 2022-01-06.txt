@@ -1,0 +1,7 @@
+# Day 6
+
+I can't believe it has been six days since I have been writing continuously. But having to just write and not worry about who is going to read and whether I should have a particular theme has been a good experiment. This is definitely enabling me to write without inhibitions. 
+
+As I have been writing this, I have in parallel been writing a web application that would render this as HTML. It is akin to a blog, although I don't want it to be limited to such. I had the idea of a second brain when building it. It renders all .txt files as HTML and has a possibility of uploading images and other files. This got me thinking, why don't people just use simple text files as the main data store for simple applications. 
+
+Something like a blog, a personal one, you could just parse the text files and load it into memory. These days virtual servers are cheap and you get something with a few gigabytes of RAM. I'm sure the text files wouldn't take more than 1GB of data. 
