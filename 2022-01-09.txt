@@ -1,5 +1,9 @@
-Plain text files are like physical notebooks, almost. Physical notebooks are flexible. There is no prescribed format. A grid, lined, or blank notebook doesn't prescribe you a format. The format is up to you. Look at the whole world of [[Bullet Journals]]. You can see how people track habits, log expenses, or keep track of the things they have to do. You are at liberty to use any method, or no method if like. 
+Plain text files are like physical notebooks, almost. Physical notebooks are flexible. There is no prescribed format. A grid, lined, or blank notebook doesn't prescribe you a format. The format is up to you. Look at the whole world of [[Bullet Journals]]<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-demo" class="margin-toggle"/>
+<span class="marginnote">
+  This is a [[Margin Note]]. Notice there isn’t a number preceding the note.
+</span>You can see how people track habits, log expenses, or keep track of the things they have to do. You are at liberty to use any method, or no method if like. </p>
 
-Plain text files are similar. The missing bit is the ability to doodle, or scribble that brilliant idea for a painting. When it comes to format you are free to choose anything. You can log your expenses, you can create a journal, keep track of your tasks, or store your favourite recipes. 
+<p>Plain text files are similar. The missing bit is the ability to doodle, or scribble that brilliant idea for a painting. When it comes to format you are free to choose anything. You can log your expenses, you can create a journal, keep track of your tasks, or store your favourite recipes. </p>
 
-These files can be searched easily, you can version control them using something like git, and can even run shell script to put them on steroids. 
+<p>These files can be searched easily, you can version control them using something like git, and can even run shell script to put them on steroids.</p>

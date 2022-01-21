@@ -1,8 +1,9 @@
-2022-01-14
+Today I wrote something about teams. This was a retort on an (@margin article """https://onbelay.co/articles/2017/5/5/tuckman-was-wrong""") linked about the different phases of a team, forming, storming, norming, and performing. The article mentions that Tuckman was wrong as his theory was not proved by any empirical studies. The person who posted it wanted to elevate the idea that teams that are temporary could work out well. 
 
-Today I wrote something about teams. This was a retort on an (@margin article "https://onbelay.co/articles/2017/5/5/tuckman-was-wrong") linked about the different phases of a team, forming, storming, norming, and performing. The article mentions that Tuckman was wrong as his theory was not proved by any empirical studies. The person who posted it wanted to elevate the idea that teams that are temporary could work out well. 
+I thought about this a bit. I don't think the duration of the team matters, here I'm speculating, but bear with me. Google did a research on what creates effective teams. This is under their (@margin "Aristotle Project" """Google's research about this. The page resides https://rework.withgoogle.com/print/guides/5721312655835136/
 
-I thought about this a bit. I don't think the duration of the team matters, here I'm speculating, but bear with me. Google did a research on what creates effective teams. This is under their (@margin "Aristotle Project" https://rework.withgoogle.com/print/guides/5721312655835136/). They came up with a few points that distinguished an effective one:
+This is just a longer note.
+"""). They came up with a few points that distinguished an effective one:
 - psychological safety
 - dependability 
 - structure and clarity
@@ -11,4 +12,4 @@ I thought about this a bit. I don't think the duration of the team matters, here
 
 People talk a lot about psychological safety from this list but there's more to it. All these matter, we can't isolate one and hope we get an effective team. 
 
-(@index "Effective Teams")
+(\@index "Effective Teams")
