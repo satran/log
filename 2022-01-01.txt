@@ -1,8 +1,4 @@
-# 2022-01-01
-
-Day 1
-
-I have always wanted to write. But the fear of perfection has prevented me to write. I wanted to have the right topic, the right words, and the right context. Perfection has hindered me from writing down my thoughts. I read an article^([[https://perell.com/note/intellectual-loneliness/|Intellectual Loneliness]]) where the author wrote to solve the problem of intellectual loneliness. 
+I have always wanted to write. But the fear of perfection has prevented me to write. I wanted to have the right topic, the right words, and the right context. Perfection has hindered me from writing down my thoughts. I read an (@margin article "[[https://perell.com/note/intellectual-loneliness/|Intellectual Loneliness]]") where the author wrote to solve the problem of intellectual loneliness. 
 
 > Writing on the Internet is the best way to solve intellectual loneliness because sharing ideas in public turns you into a magnet for like-minded people.
 

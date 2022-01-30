@@ -1,0 +1,7 @@
+Move to GitHub
+15/02/2012
+
+I do realize this is the third time I am shifting my blog. But this had to be done. I needed a simpler solution to get my blog running. As mentioned in the [[/about|About]] page the whole site is generated using [[https://github.com/mojombo/jekyll|Jekyll]] and pushed into [[https://github.com/|GitHub]]. The simplicity of it is just marvellous. I just have to create a markdown file in the `_posts` directory and push it to GiHub's repository. 
+
+There are definitely glitches in moving the blog. The URL's don't match. I have reposted the few articles that were posted on Tumblr. My apologies for that. 
+
