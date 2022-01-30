@@ -12,4 +12,4 @@ Understand the domain is key to solving the right problem. Eric Evans, in his bo
 
 This is more a note to my future self to ensure I don’t get carried off by an inspiring video of Netflix using "tumultuous baboon" to ensure fault tolerance for their drones.
 
-1. [Wikipedia article on Principal-agent problem](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
+1. [[https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem|Wikipedia article on Principal-agent problem]]

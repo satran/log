@@ -1,6 +1,6 @@
 Go best practices (@created 2014/11/23)
 
-I have been building the back-end for [Endless](http://studiomarch.com/endless/), a product we make at Studio March, primarily in Go. There have been a few pleasant surprises that the language provides. Here I try to explain an opinionated best practises while coding in Go.
+I have been building the back-end for [[http://studiomarch.com/endless/|Endless]], a product we make at Studio March, primarily in Go. There have been a few pleasant surprises that the language provides. Here I try to explain an opinionated best practises while coding in Go.
 
 # Use the standard library.
 Always see if there is something in the standard library that fits your need before looking else where. In most cases the standard library is just enough.
@@ -17,7 +17,7 @@ This can either be used as command line arguments or in places which needs defau
 I searched for days to stick to an ORM but finally decided to stick with the vanilla `database/sql` package. Many might think this takes us back a step but its simplicity makes up for any drawback. ORMs generally take the least common set of features a database provides. For example you cannot take advantages that Postgres give you with Hstore or Array data types. With the `database/sql` you can.
 
 - I use the net/http
-For my needs the `net/http` fits  well for the few end points of the API. Sometimes I use the [Gorilla tool kit](http://gorillatoolkit.org/) when the `http` package is not enough. More than a full fledge framework use what you need from the `net/http` package or the toolkit.
+For my needs the `net/http` fits  well for the few end points of the API. Sometimes I use the [[http://gorillatoolkit.org/|Gorilla tool kit]] when the `http` package is not enough. More than a full fledge framework use what you need from the `net/http` package or the toolkit.
 
 - others
 The `log` package does most of your logging at ease. It is also thread safe which means you can have global `Logger`s to do all your logging. Use the `log.Lshortfile` flag for debugging purposes. The `testing` suite with the `go test` command is enough for most test cases.
@@ -63,7 +63,7 @@ Use the `os.Getenv("VARIABLE_NAME")` to set passwords and other sensitive in you
 - Use your $HOME folder for $GOPATH
 This is just convenience. Setting it will automatically put binaries in `$HOME/bin` and navigating through code can be easier by just following `$HOME/src`.
 - Naming conventions
-Follow standards in [Effective Go](https://golang.org/doc/effective_go.html#names) for naming conventions. Try to make your packages read like `users.New` or `sessions.DB`.
+Follow standards in [[https://golang.org/doc/effective_go.html#names|Effective Go]] for naming conventions. Try to make your packages read like `users.New` or `sessions.DB`.
 - Keep it simple
 The beauty of Go is its simplicity, so try to do the same with your code. Avoid exposing too many variables/structs/functions. Make your API small and simple. This makes it easier to maintain your code.
 

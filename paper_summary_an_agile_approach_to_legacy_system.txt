@@ -27,4 +27,4 @@ I would recommend reading it even if you don't have to rewrite legacy systems. A
 
 
 ---
-1. [http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf)
+1. [[http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf|http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf]]

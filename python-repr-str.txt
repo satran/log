@@ -33,7 +33,7 @@ Most functions while trying to get the string representation use the `__str__` f
 
 A few references:
 
-[Stackoverflow: http://stackoverflow.com/a/2626364/504262](http://stackoverflow.com/a/2626364/504262)
+[[http://stackoverflow.com/a/2626364/504262|Stackoverflow: http://stackoverflow.com/a/2626364/504262]]
 
 [Python reference for `__repr__`][1]
 

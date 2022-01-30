@@ -1,7 +1,7 @@
 Working in a Startup
 10/04/2012
 
-Seven months back I made the decision of leaving Bangkok and returning to India. Making the move was a thing I felt I had to do. My work was getting less challenging and needed something new to toy around with. Joining a startup was definitely something new. The interview sessions I had with [MQuotient](http://www.mquotient.net) had definitely struck the right note. Folks there seemed to be brilliant and were bubbling with ideas, ideas that caught my attention. With all set I moved to Koregaon Park, Pune.
+Seven months back I made the decision of leaving Bangkok and returning to India. Making the move was a thing I felt I had to do. My work was getting less challenging and needed something new to toy around with. Joining a startup was definitely something new. The interview sessions I had with [[http://www.mquotient.net|MQuotient]] had definitely struck the right note. Folks there seemed to be brilliant and were bubbling with ideas, ideas that caught my attention. With all set I moved to Koregaon Park, Pune.
 
 
 Things were very different from what I imagined it to be from the moment I stepped first into the office. I was greeted by Rishi on the first day, who showed me to the guest house they had provided. At dinner I met a few others: Kumar, Sreejith and Shezad. With a nice meal and good chat I rested in the comforts of the guest house. Navneet, one who had interviewed my technical skills, showed up at around 9(or 10, I forget the details) to lead me to the office. The office looked very cozy, with the far end seating the programmers. I got oriented and got a rough idea about the projects and had a quick look at the code.

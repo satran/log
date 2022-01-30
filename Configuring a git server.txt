@@ -4,9 +4,9 @@ Configuring a Git Server
 There are many ways to set up a Git server. In this article I am going to show you how you can do it using the SSH protocol. First I am assuming you have a UNIX or GNU/Linux machine with you. I am not very sure if this works well on windows, I am assuming it would. 
 
 # Installing basic packages on the server
-You must have ssh installed in your machine and the daemon must be running. On [Fedora](http://fedoraproject.org) it comes in by default, while on [Ubuntu](http://ubuntu.com) you have to install the `openssh-server` package. On a Mac the service is disabled by default. Go to System Preferences -> Sharing and enable Remote Login. 
+You must have ssh installed in your machine and the daemon must be running. On [[http://fedoraproject.org|Fedora]] it comes in by default, while on [[http://ubuntu.com|Ubuntu]] you have to install the `openssh-server` package. On a Mac the service is disabled by default. Go to System Preferences -> Sharing and enable Remote Login. 
 
-Now that you have `sshd` enabled we can proceed to setting up the git server. You must have git installed in the machine, get the instructions for your machine [here](http://git-scm.com/download). For the rest of the document I am going to call the server `r2d2` and the client machine `gandalf`. 
+Now that you have `sshd` enabled we can proceed to setting up the git server. You must have git installed in the machine, get the instructions for your machine [[http://git-scm.com/download|here]]. For the rest of the document I am going to call the server `r2d2` and the client machine `gandalf`. 
 <!-- more -->
 
 # Creating the Repository

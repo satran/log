@@ -5,4 +5,4 @@ When I forget to lock my laptop someone at work graciously decides to post a mes
 
 Initially I had written a shell script to do the same. But with my limited knowledge in shell scripting I decided to write it in Go.
 
-You can get the code in my [Github repository](https://github.com/satran/autolock).
+You can get the code in my [[https://github.com/satran/autolock|Github repository]].

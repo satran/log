@@ -113,5 +113,5 @@ func waitForChange(w *fsnotify.Watcher) error {
 
 I hope the code explains better than the text I have written. I have omitted several cases where the code could fail for brevity. For a sound implementation of the functionality I would have to dig deeper. But this was good enough for me to quence the thirst of knowing how it works. I hope it did the same for you too.
 
-[1] [Feynman Lectures on Computation](http://amzn.to/2AIWVuX)
+[1] [[http://amzn.to/2AIWVuX|Feynman Lectures on Computation]]
 
